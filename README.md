@@ -8,7 +8,9 @@ This repository contains the datasets and scripts used to create the figures in:
 
 1. Raw reads are available from the NCBI SRA # XXX and were processed using the SCVUC v2.3 pipeline available from https://github.com/Hajibabaei-Lab/SCVUC_COI_metabarcode_pipeline . 
 
-2. Datasets: A FASTA file for the denoised ESVs are in cat_denoised.tar.gz .
+2. Datasets: 
+  * ESVS.denoised is a FASTA file of denoised ESVs.
+  * matrix.csv contains the taxonomic assignments for the denoised ESVs, as well ad read numbers per sample.
 
 3. Figures were pepared in R as follows:
   * Fig 1 was generated with Fig1_Richness.R from matrix.csv .
