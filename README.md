@@ -2,7 +2,7 @@
 
 This repository contains the datasets and scripts used to create the figures in:
 
-**Hajibabaei et al., 2019. Watered-down biodiversity?  A comparison of metabarcoding results from DNA extracted from matched water and bulk tissue biomonitoring samples.**
+**Hajibabaei et al., 2019. Watered-down biodiversity?  A comparison of metabarcoding results from DNA extracted from matched water and bulk tissue biomonitoring samples.  PLoS ONE 14(12): e0225409.**
 
 ## Data analysis outline
 
